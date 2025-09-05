@@ -12,6 +12,6 @@ The prompt for the llm(local or api)
 
 ## README.md
 
-This file 
+The current file 
 
 ## .gitignore
