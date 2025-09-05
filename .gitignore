@@ -1,0 +1,45 @@
+# ---- OS cruft ----
+.DS_Store
+Thumbs.db
+
+# ---- Editors ----
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# ---- JS / TS / Bun / Svelte ----
+node_modules/
+bun.lockb
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+dist/
+build/
+.svelte-kit/
+
+# ---- Clojure / shadow-cljs ----
+.cpcache/
+.shadow-cljs/
+.nrepl-port
+target/
+
+# ---- Python / Marimo ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+.venv/
+.mypy_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ---- Logs / Env ----
+*.log
+.env
+.env.*
+*.bak
+*.tmp
