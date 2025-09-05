@@ -8,7 +8,7 @@ The shell script that executes git diff and the llm exectution. Do not forget to
 
 ## prompt.md
 
-The prompt for the llm
+The prompt for the llm(local or api)
 
 ## README.md
 
