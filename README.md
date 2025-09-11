@@ -4,7 +4,7 @@ This pipes your current git diff into an llm. This llm gives you add commit unit
 
 ## main.sh
 
-The shell script that executes git diff and the llm exectution. Do not forget to make it executable.
+The shell script that executes git diff and the llm execution. Do not forget to make it executable.
 
 ## prompt.md
 
@@ -15,3 +15,8 @@ The prompt for the llm(local or api)
 The current file 
 
 ## .gitignore
+
+
+## to do 
+
+transform this to be a bun binary executable.
