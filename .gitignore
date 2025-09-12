@@ -48,3 +48,5 @@ __pycache__/
 tsconfig.json
 *.lock
 *.d.ts
+*.bun-build
+autogit
