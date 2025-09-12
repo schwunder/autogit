@@ -43,3 +43,8 @@ __pycache__/
 .env.*
 *.bak
 *.tmp
+
+*.mdc
+tsconfig.json
+*.lock
+*.d.ts
