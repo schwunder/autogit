@@ -8,5 +8,10 @@
   },
   "peerDependencies": {
     "typescript": "^5"
+  },
+  "dependencies": {
+    "@ai-sdk/cerebras": "^1.0.15",
+    "@cerebras/cerebras_cloud_sdk": "^1.50.0",
+    "ai": "^5.0.41"
   }
 }
